@@ -1,0 +1,5 @@
+[user]
+        name = joshparrish
+        email = jparrish@astate.edu
+[credential]
+        helper = osxkeychain
